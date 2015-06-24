@@ -10,7 +10,11 @@ We began by uploading the entire dataset into Viewshare and immediately knew we 
 
 With minimal content knowledge about the Knoedler Gallery archives or art market data Nathaniel, Steph and Lisa admittedly felt lost about where to go next. They were creating visualizations without understanding what they meant (if anything). So they consulted with Kelly to gain a better understanding of data and interested pieces to parse out/visualize. She created a spreadsheet of major buyers and sellers and shared it with the team.
 
-[![Major Buyers and Sellers](http://i.imgur.com/93NOVV7.jpg "Major Buyers and Sellers")](https://docs.google.com/spreadsheets/d/1mXnPIZwybldyR1oZE0268uCzUZOdBoFFl3HJ0wRnaAs/edit?usp=sharing)
+<figure class="figure figure-center">
+<img src="http://i.imgur.com/93NOVV7.jpg"(https://docs.google.com/spreadsheets/d/1mXnPIZwybldyR1oZE0268uCzUZOdBoFFl3HJ0wRnaAs/edit?usp=sharing) title="Major Buyers and Sellers">
+<figcaption>List of major buyers and private collectors who acquired art work from the Knoedler Gallery. Click on the image to access the full document. </figcaption>
+</figure>
+
 
 Using this information we decided to create visualizations of a survey of the major buyers whose work ended up in both the Met and the NGA. With 40 items from the Met and 64 from the NGA this information was much easier to work with. Not only did Viewshare work exponentially faster but such specific information made date and location corrections more manageable. Moreover, we were able to critically think about how we wanted to display this information in Viewshare, what combinations of information we wanted to use in order to portray a survey of both the Met and the NGA’s collections that came from the Knoedler Gallery.
 

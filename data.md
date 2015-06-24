@@ -3,13 +3,13 @@ layout: default
 title: Data
 permalink: /Data/
 ---
-### Our Data
+### The Data
+<figure class="figure figure-center">
+<img src="http://i.imgur.com/OMKPN81.png"  title="Knoedler Dataset">
+<figcaption>Clean data set of the first six stock books from the Knoedler Gallery Archive, exported from the Getty Provenance Index database. Click [here](https://drive.google.com/file/d/0B0yBC2pH_uAwanZmSHhET05WZkk/view?usp=sharing) to use this data.</figcaption>
+</figure>
 
-[![Knoedler Dataset](http://i.imgur.com/OMKPN81.png "Knoedler Dataset")](https://drive.google.com/file/d/0B0yBC2pH_uAwanZmSHhET05WZkk/view?usp=sharing)
 
-Click [here](https://drive.google.com/file/d/0B0yBC2pH_uAwanZmSHhET05WZkk/view?usp=sharing) to go to our project's Google Drive where we're hosting a clean data set of the first six stock books of the Knoedler Gallery Archive. This data was exported from the [](http://www.getty.edu/research/tools/provenance/search.html)Getty Provenance Index database.
-
-### About Our Data
 
 As described in the History section of our website, this dataset is the result of countless hours transcribing handwritten stock books. There are multiple levels of human interaction with the data that results in no small number of idiosyncrasies and inconsistencies. This is a simple reality of working with structured data and it proves to be a major challenge when working with visualization software that can only be successful when the data is consistent.
 

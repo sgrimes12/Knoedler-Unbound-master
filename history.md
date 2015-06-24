@@ -22,6 +22,7 @@ The gallery’s records constitute the history of taste, the art market, collect
 
 <figure class="figure figure-center">
   <img src="http://i.imgur.com/ZavETWK.png" title="Dealer Stock Book Database">
+  <figcaption>Screenshot of Dealer Stock Books Database from the Getty Provenance Index©. 
 </figure>
 ### Dealer Stock Book Database
 
