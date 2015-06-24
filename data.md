@@ -35,7 +35,7 @@ These two examples (location and date format) exemplify the complexity of operat
 
 ### Data Provenance
 
-By definition data provenance is the tracking of changes made in the cleaning of data sets. Click here to view our document. For more information about Data Provenance please refer to our resource page.
+By definition data provenance is the tracking of changes made in the cleaning of data sets. <a href= "https://drive.google.com/open?id=0BxxB10Erjo-UbmtQcnNNUDR0REdYY3FHLXhBQ0lMX0ZkRDBn&authuser=0">Click here</a> to view our document. For more information about Data Provenance please refer to our resource page.
 
 
 
