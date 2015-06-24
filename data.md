@@ -5,7 +5,7 @@ permalink: /Data/
 ---
 ### The Data
 <figure class="figure figure-center">
-<img src="http://i.imgur.com/OMKPN81.png"  title="Knoedler Dataset">
+<img src="http://i.imgur.com/GlM9NLd.jpg"  title="Knoedler Dataset">
 <figcaption>Clean data set of the first six stock books from the Knoedler Gallery Archive, exported from the Getty Provenance Index database. <a href= "https://drive.google.com/open?id=0BxxB10Erjo-Ua1NRUWtVOGdhbzlWT2JkQWJPMFJTdjlqSGNR&authuser=0">Click here</a> to use this data.</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ A similar difficulty emerges on a more domestic level for art objects that were 
 
 The date format provided a significant challenge which, much like location names, develops at multiple stages in the process. Although the transcribers do an excellent job of standardizing date information to a mm/dd/yyyy format, the authors of the stock book occasionally abbreviate dates to a simple mm/yyyy format, consigning the exact day to obscurity. In these cases, we have simply used the first day of the month as a place holder (see Data Provenance section below). The next challenge is the way Microsoft Excel and/or Google Docs understands dates and their formatting. In the first place, dates before 1900 can only be treated as raw information, preventing Excel from sorting those dates appropriately. That wouldn't be so bad if one could simply convert all date information to the mm/dd/yyyy format and then treat all date values as raw information so that entries could be sorted chronologically. Instead, Excel employs a bewildering system wherein readable date values (1900 and on) are converted to a nonsensical five digit number when represented as raw information and not 'Date' formatted. The most successful but not entirely satisfying solution we found is detailed in the Data Provenance document.
 
-The Getty Thesaurus of Geographic Names proved an invaluable reference during this phase of data cleaning. Not only does it offer an authoritative name for locations,but geographic coordinates are also included within each entry.
+<a href="http://www.getty.edu/research/tools/vocabularies/tgn/">The Getty Thesaurus of Geographic Names</a> proved an invaluable reference during this phase of data cleaning. Not only does it offer an authoritative name for locations,but geographic coordinates are also included within each entry.
 
 These two examples highly the complexity of operation required to get the data into shape for use in the visualization tools. They also illustrate the many moments in which a researcher alters the data they’ve received. As this alteration is a necessary evil, it is essential that these changes are tracked and detailed, if not only to lend credibility to any results the researcher might publish or present but also for the researcher’s own records (and sanity).
 
