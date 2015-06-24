@@ -11,8 +11,8 @@ We began by uploading the entire dataset into Viewshare and immediately knew we 
 With minimal content knowledge about the Knoedler Gallery archives or art market data Nathaniel, Steph and Lisa admittedly felt lost about where to go next. They were creating visualizations without understanding what they meant (if anything). So they consulted with Kelly to gain a better understanding of data and interested pieces to parse out/visualize. She created a spreadsheet of major buyers and sellers and shared it with the team.
 
 <figure class="figure figure-center">
-<img src="http://i.imgur.com/93NOVV7.jpg"(https://docs.google.com/spreadsheets/d/1mXnPIZwybldyR1oZE0268uCzUZOdBoFFl3HJ0wRnaAs/edit?usp=sharing) title="Major Buyers and Sellers">
-<figcaption>List of major buyers and private collectors who acquired art work from the Knoedler Gallery. Click on the image to access the full document. </figcaption>
+<img src="http://i.imgur.com/93NOVV7.jpg" title="Major Buyers and Sellers">
+<figcaption>List of major buyers and private collectors who acquired art work from the Knoedler Gallery.<a href="https://docs.google.com/spreadsheets/d/1mXnPIZwybldyR1oZE0268uCzUZOdBoFFl3HJ0wRnaAs/edit?usp=sharing"> Click here</a> to access the full document. </figcaption>
 </figure>
 
 

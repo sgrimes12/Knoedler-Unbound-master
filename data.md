@@ -6,7 +6,7 @@ permalink: /Data/
 ### The Data
 <figure class="figure figure-center">
 <img src="http://i.imgur.com/OMKPN81.png"  title="Knoedler Dataset">
-<figcaption>Clean data set of the first six stock books from the Knoedler Gallery Archive, exported from the Getty Provenance Index database. Click [here](https://drive.google.com/file/d/0B0yBC2pH_uAwanZmSHhET05WZkk/view?usp=sharing) to use this data.</figcaption>
+<figcaption>Clean data set of the first six stock books from the Knoedler Gallery Archive, exported from the Getty Provenance Index database. <a href= "https://drive.google.com/file/d/0B0yBC2pH_uAwanZmSHhET05WZkk/view?usp=sharing">Click here</a> to use this data.</figcaption>
 </figure>
 
 
