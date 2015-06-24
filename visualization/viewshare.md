@@ -20,8 +20,8 @@ Using this information we decided to create visualizations of a survey of the ma
 
 We created identical combinations for both museums in order to produce side-by-side comparisons. One of our most fruitful moments in this project was presenting these visualizations to the team who provided different perspectives on the information. We’d be interested in collaborating with scholars who notice specific trends or anomalies within these visualizations and would like to explore the content further. We have made our visualizations public and encourage scholars to study, clone, and use what we've created in their own scholarship.  In addition, we have created side-by-side comparisons of our NGA and MET surveys for the same reason. 
 
-Click [here](http://viewshare.org/share/aab8cc4a-9416-4019-8ff7-c31456159cfb/) to study the Viewshare visualizatons of collections in the NGA. 
+* Click [here](http://viewshare.org/share/aab8cc4a-9416-4019-8ff7-c31456159cfb/) to study the Viewshare visualizatons of collections in the NGA. 
 
-Click [here](http://viewshare.org/share/9570fa82-d791-47b3-8370-210fbaf2997a/) to study the Viewshare visualizations of collections in the MET.
+* Click [here](http://viewshare.org/share/9570fa82-d791-47b3-8370-210fbaf2997a/) to study the Viewshare visualizations of collections in the MET.
 
-Click [here](https://drive.google.com/open?id=0BxxB10Erjo-UfjRvRlVKMFdyRW1WamxReklaVTBwWm9sSDh4aVp3Q0xuTktnWkc1MF91UW8&authuser=0) to study side-by-side comparisons of collections in both the NGA and the MET. 
+* Click [here](https://drive.google.com/open?id=0BxxB10Erjo-UfjRvRlVKMFdyRW1WamxReklaVTBwWm9sSDh4aVp3Q0xuTktnWkc1MF91UW8&authuser=0) to study side-by-side comparisons of collections in both the NGA and the MET. 
