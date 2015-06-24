@@ -29,6 +29,8 @@ Below is a list of resources we found useful during our project. They're divided
 
 [Palladio tutorial](http://miriamposner.com/blog/getting-started-with-palladio/)
 
+[Visualising Data](http://www.visualisingdata.com/index.php/resources/)
+
 #### Inspirational digital humanities projects
 
 [Mapping Titian](http://www.mappingtitian.org/)

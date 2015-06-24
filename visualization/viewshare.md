@@ -12,7 +12,7 @@ With minimal content knowledge about the Knoedler Gallery archives or art market
 
 <figure class="figure figure-center">
 <img src="http://i.imgur.com/93NOVV7.jpg" title="Major Buyers and Sellers">
-<figcaption>List of major buyers and private collectors who acquired art work from the Knoedler Gallery.<a href="https://docs.google.com/spreadsheets/d/1mXnPIZwybldyR1oZE0268uCzUZOdBoFFl3HJ0wRnaAs/edit?usp=sharing"> Click here</a> to access the full document. </figcaption>
+<figcaption>List of major buyers and private collectors who acquired art work from the Knoedler Gallery.<a href="https://drive.google.com/open?id=0BxxB10Erjo-UTWVDd1Z2VnRjV3E4WjNPLXBIeUp5UVJtSUZJ&authuser=0"> Click here</a> to access the full document. </figcaption>
 </figure>
 
 
@@ -24,4 +24,4 @@ Click [here](http://viewshare.org/share/aab8cc4a-9416-4019-8ff7-c31456159cfb/) t
 
 Click [here](http://viewshare.org/share/9570fa82-d791-47b3-8370-210fbaf2997a/) to study the Viewshare visualizations of collections in the MET.
 
-Click [here](https://drive.google.com/open?id=0B0alWjPbicDTflRqRmVhbUxRTjNNNUVMU28wMzhSWmViTWFCOUpIZzJBZWJ2b0dvV3laRFk&authuser=0) to study side-by-side comparisons of collections in both the NGA and the MET. 
+Click [here](https://drive.google.com/open?id=0BxxB10Erjo-UfjRvRlVKMFdyRW1WamxReklaVTBwWm9sSDh4aVp3Q0xuTktnWkc1MF91UW8&authuser=0) to study side-by-side comparisons of collections in both the NGA and the MET. 
