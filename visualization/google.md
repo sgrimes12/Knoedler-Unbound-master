@@ -4,7 +4,7 @@ layout: visualization
 ---
 Making visualizations of this data is the fun part, at least for us. Finally, you get to take the data that you’ve carefully collected and structured, and plug it into programs to see what happens. As a relative novices with technology, we stuck to some basic tools to create some basic, yet still enlightening visualizations.
 
-Our first data experiment was with Google Spreadsheets. We decided to take a look at sales by nationality over time, specifically the decades 1890s, 1900s, and 1910s. This was a fruitful time in Knoedler history when the gallery was getting off their feet and entering the market with full force. We were curious what, if any, changes the Gallery was making in their stock over time.
+Our first data experiment was with <a href="https://www.google.com/sheets/about/"target="_blank">Google Spreadsheets</a>. We decided to take a look at sales by nationality over time, specifically the decades 1890s, 1900s, and 1910s. This was a fruitful time in Knoedler history when the gallery was getting off their feet and entering the market with full force. We were curious what, if any, changes the Gallery was making in their stock over time.
 
 To discover this, we created simple pie charts, achieved by plugging a curated amount of data into a Google spreadsheet. We only included the information needed for the visualization, so the data set is quite simple. We made three spreadsheets, one for each decade.
 
