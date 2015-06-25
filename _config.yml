@@ -64,7 +64,7 @@ url:"http://sgrimes12.github.io/knoedlerunbound"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:"knoedlerunbound" 
+baseurl:"/knoedlerunbound" 
 
 #
 # !! You don't need to change any of the configuration flags below !!
