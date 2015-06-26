@@ -25,5 +25,5 @@ Google makes this process streamlined, and it’s similar enough to Excel to hav
 <figcaption>Data set and pie chart displaying artists nationalities and the recorded date the Knoedler Gallery sold works of art in the 1900s.</figcaption>
 </figure>
 
-As you can see quite clearly, the largest shift between 1890 and 1910 is the movement from French to American. In the 1890s, French artists had an over 50% share of all works sold by Knoedler, but by 1910 this had decreased to barely over 30%, with American sales growing from a measly 8.9% in 1890 to almost a quarter (21.1%) in the 1910s. This confirmed the narrative generally accepted by history, that Knoedler shifted over this time period from French to American paintings. However, it's enlightening to see it in visual form.
+As you can see quite clearly, the largest shift between 1890 and 1910 is the movement from French to American. In the 1890s, French artists had an over 50% share of all works sold by Knoedler, but by 1910 this had decreased to barely over 30%, with American sales growing from a measly 8.9% in 1890 to almost a quarter (21.1%) in the 1910s. This furthers the theory that taste was shifting at this time from the French Salon paintings towards other nationalities, especially American. 
 
