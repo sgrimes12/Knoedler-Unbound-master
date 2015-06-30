@@ -9,7 +9,6 @@ permalink: /Visualization/
 <figcaption>Data visualizations from left to right: Network analysis produced with Palladio, word cloud produced with Viewshare.</figcaption>
 </figure>
 
-Data visualizations from left to right: Network analysis produced with Palladio, word cloud produced with Viewshare.
 Embedded inside the Knoedler stock books are countless research questions that could develop into anything from an undergraduate seminar class to a PhD dissertation or an established scholar’s next manuscript. In the several minutes it takes to scroll through an excel spreadsheet with over 20,000 entries it’s easy to feel both excited and overwhelmed by the depth of information and scholarly potential available. How does one make sense of that many lines of data representing decades of the art market? More specifically, how do art historians, trained in visual analysis and critical thinking, effectively apply those same research skills to an excel spreadsheet? Simply put, we don’t.
 
 Data visualization tools allowed us to conceptualize large amount of information. By turning unattractive spreadsheets into eye-catching graphs, pie charts, maps, word clouds or other visualizations, art historians can begin to ask more complex questions about the massive amount of information now available online.
