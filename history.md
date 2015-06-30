@@ -18,7 +18,7 @@ It’s hard to overestimate the influence the gallery had on the burgeoning art 
 
 ### Records
 
-The gallery’s records constitute the history of taste, the art market, collecting, patronage, artists and works of art throughout the world. After the closure of the gallery in the early 2010’s the Getty Research Institute (GRI) acquired all of the stock books. Previously, the archive was housed in the New York office, inaccessible and not widely available for study. Once acquired, the GRI began processing and readying the archive for digitization. As of June 2015, six out of the eleven series of archives are online, free and open to pursue for future scholarship and reference.
+The gallery’s records constitute the history of taste, the art market, collecting, patronage, artists and works of art throughout the world. After the closure of the gallery in the early 2010s the Getty Research Institute (GRI) acquired all of the stock books. Previously, the archive was housed in the New York office, inaccessible and not widely available for study. Once acquired, the GRI began processing and readying the archive for digitization. As of June 2015, six out of the eleven series of archives are online, free and open to pursue for future scholarship and reference.
 
 <figure class="figure figure-center">
   <img src="http://i.imgur.com/ZavETWK.png" title="Dealer Stock Book Database">
