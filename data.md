@@ -11,7 +11,7 @@ permalink: /Data/
 
 
 
-As described in the History section of our website, this dataset is the result of countless hours transcribing handwritten stock books. There are multiple levels of human interaction with the data that results in no small number of idiosyncrasies and inconsistencies. This is a simple reality of working with structured data and it proves to be a major challenge when working with visualization software that can only be successful when the data is consistent.
+As described in the <a href= "http://knoedlerunbound.org/History/">History</a> section of our website, this dataset is the result of countless hours transcribing handwritten stock books. There are multiple levels of human interaction with the data that results in no small number of idiosyncrasies and inconsistencies. This is a simple reality of working with structured data and it proves to be a major challenge when working with visualization software that can only be successful when the data is consistent.
 
 ### Challenges: Location
 
