@@ -23,7 +23,7 @@ The date format provided a significant challenge which, much like location names
 
 <a href="http://www.getty.edu/research/tools/vocabularies/tgn/">The Getty Thesaurus of Geographic Names</a> proved an invaluable reference during this phase of data cleaning. Not only does it offer an authoritative name for locations,but geographic coordinates are also included within each entry.
 
-These two examples highly the complexity of operation required to get the data into shape for use in the visualization tools. They also illustrate the many moments in which a researcher alters the data they’ve received. As this alteration is a necessary evil, it is essential that these changes are tracked and detailed, if not only to lend credibility to any results the researcher might publish or present but also for the researcher’s own records (and sanity).
+These two examples highlight the complexity of operation required to get the data into shape for use in the visualization tools. They also illustrate the many moments in which a researcher alters the data they’ve received. As this alteration is a necessary evil, it is essential that these changes are tracked and detailed, if not only to lend credibility to any results the researcher might publish or present but also for the researcher’s own records (and sanity).
 
 ### Challenges: Date
 
