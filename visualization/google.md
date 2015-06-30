@@ -13,7 +13,7 @@ Our first data experiment was with <a href="https://www.google.com/sheets/about/
 <img src="http://i.imgur.com/lQx5Ow2.jpg" title="1900s">
 <figcaption>Data set and pie chart displaying artists nationalities and the recorded date the Knoedler Gallery sold works of art in the 1900s. </figcaption>
 </figure>
-To discover this, we created simple pie charts, achieved by plugging a curated amount of data into a Google spreadsheet. By only including the information needed for the visualization our data set was quite simple. We made three spreadsheets, one for each decade.
+To discover this, we created simple pie charts, achieved by plugging a curated amount of data into a Google spreadsheet. By only including the information needed for the visualization, our data set was quite simple. We made three spreadsheets, one for each decade.
 <figure class="figure figure-center">
 <img src="http://i.imgur.com/R6lcNta.jpg" title="1910s">
 <figcaption>Data set and pie chart displaying artists nationalities and the recorded date the Knoedler Gallery sold works of art in the 1900s.</figcaption>
