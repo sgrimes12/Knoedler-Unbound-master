@@ -15,7 +15,7 @@ Our first data experiment was with <a href="https://www.google.com/sheets/about/
 </figure>
 To discover this, we created simple pie charts, achieved by plugging a curated amount of data into a Google spreadsheet. Only including the information needed for the visualization makes data set quite simple. We made three spreadsheets, one for each decade.
 <figure class="figure figure-center">
-<img src="http://i.imgur.com/eAUm0Ah.jpg" title="1910s">
+<img src="http://i.imgur.com/C3qSUDs.jpg" title="1910s">
 <figcaption>Data set and pie chart displaying artists nationalities and the recorded date the Knoedler Gallery sold works of art in the 1900s.</figcaption>
 </figure>
 Google makes this process streamlined, and it’s similar enough in design to Excel to have a small learning curve. In fact, we used Excel first with the large set of data containing all decades, then filtered by date and copied the relevant data into separate Google spreadsheets. This made it easy to count each nationality, make a two-columned table, and from there, use Google’s “Insert Chart” tool to choose pie graph. The program is smart enough to suggest which chart would work with your data, and has options ranging from pie and bar graphs to more complex histograms and scatter plots.
