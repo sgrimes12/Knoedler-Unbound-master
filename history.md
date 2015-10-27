@@ -26,7 +26,7 @@ The gallery’s records constitute the history of taste, the art market, collect
 </figure>
 ### Dealer Stock Book Database
 
-In the fall of 2014, the Getty Research Institute’s Project for the Study of Collecting and Provenance launched the Knoedler section of the Dealer Stock Book Database that previously included only Goupil. Hand-written entries from stock books one through six have been transcribed by Provenance Index editors and carefully enhanced with subject classifications. Artists, sellers, and buyers are standardized according to an authority database. Every day, hundreds of records are created or edited with extensive metadata. This resource allows for numerous research opportunities.
+In the fall of 2014, the Getty Research Institute’s Project for the Study of Collecting and Provenance launched the Knoedler section of the Dealer Stock Book Database that previously included only Goupil. Hand-written entries from stock books one through eleven have been transcribed by Provenance Index editors and carefully enhanced with subject classifications. Artists, sellers, and buyers are standardized according to an authority database. Every day, hundreds of records are created or edited with extensive metadata. This resource allows for numerous research opportunities.
 
 
 
